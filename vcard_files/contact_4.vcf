@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+REV:2024-05-27T10:09:21Z
+N;CHARSET=utf-8:ramavat;vihar;;;
+FN;CHARSET=utf-8:vihar ramavat
+TEL;WORK:8460576097
+EMAIL;INTERNET;WORK:viharramavat@gmail.com
+ORG;CHARSET=utf-8:amazon 
+TITLE;CHARSET=utf-8:Owner
+URL:xyz.com
+ADR;WORK;POSTAL;CHARSET=utf-8:Bhavnagar ;Gujarat ;;;;;
+NOTE;CHARSET=utf-8:blah blah
+END:VCARD

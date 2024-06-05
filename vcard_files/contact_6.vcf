@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+REV:2024-05-27T10:06:51Z
+N;CHARSET=utf-8:360 tester03;360 tester;;;
+FN;CHARSET=utf-8:360 tester 360 tester03
+TEL;WORK:971055123456
+TEL;HOME:97124360852
+EMAIL;INTERNET;WORK:360tester03@gmail.com
+EMAIL;INTERNET;HOME:360tester02@gmail.com
+ORG;CHARSET=utf-8:360 INC
+TITLE;CHARSET=utf-8:Executive Trainee
+URL:https://wewant360.com
+ADR;WORK;POSTAL;CHARSET=utf-8:Bhavnagar ;Gujarat ;;;;;
+NOTE;CHARSET=utf-8:doing testing kindly ignore this message etc
+END:VCARD
